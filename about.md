@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-Web developer for a long time, contact me at rodrigo_siqueira1@yahoo.com.br
+Desenvolvedor desde 2008, mais informações nas minhas redes sociais no rodapé do site.
