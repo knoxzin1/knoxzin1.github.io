@@ -9,9 +9,9 @@ Extensão desenvolvida para adicionar algumas funções ao site [vk](https://vk.
 
 Entre as funções da extensão estão:
 
-* Atualizar a lista de tópicos "Quadro de Discussão"
+* Atualizar a lista de tópicos ao clicar em "Quadro de Discussão"
 * Rolar os posts automaticamente nos tópicos se estiver clicada a caixa de escrever comentários
-* Quando dentro de um tópico, clicar em "Quadro de Discussão" a lista de tópicos é atualizada
+* Quando dentro de um tópico, ao clicar em "Quadro de Discussão" a lista de tópicos é atualizada
 * Adicionar qualquer foto da web no seu álbum "VK Manager"
 * Executar automáticamente gifs com menos de 4MB
 
